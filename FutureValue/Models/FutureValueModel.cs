@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 
 namespace FutureValue.Models
 {
+    //test
     public class FutureValueModel
     {
         public decimal MonthlyInvestment { get; set; }
